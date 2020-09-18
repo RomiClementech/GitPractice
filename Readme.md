@@ -1,11 +1,10 @@
 # GitPractice
 Practica de GIT (trabajo en clase ) EDI 2020
 
-
 -
 
-Cambio Branch A 
-
+Modificación de Readme.md en el branchB
 -
 
-Modificación desde el branch A, N°2. 
+Modificación de Readme.md en el branchB 2
+-
