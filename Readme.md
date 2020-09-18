@@ -6,6 +6,30 @@ ____________________
 
 Master branch 
 
+commit ee66fa36116efc75c86ff6f26f512cbcdbd61bab (HEAD -> master, origin/master,
+origin/HEAD)
+Author: Romi <roclementech@gmail.com>
+Date:   Fri Sep 18 10:57:45 2020 -0300
+
+    Readme edición final
+
+commit 3e93549ffe33b760822e04cd948d67641c9439ed
+Merge: 8a22d20 3d6fa79
+Author: Romi Clemente <roclementech@gmail.com>
+Date:   Fri Sep 18 10:43:42 2020 -0300
+
+    Merge pull request #4 from RomiClementech/B
+
+    Ok to merge branch B
+
+commit 3d6fa7954099d982024385cf6dafb689e1e73b13 (origin/B)
+Merge: cefe630 8a22d20
+Author: Romi Clemente <roclementech@gmail.com>
+Date:   Fri Sep 18 10:39:24 2020 -0300
+
+    Merge branch 'master' into B
+
+
 commit aa65f39797832a6280169ac72a9e69e53d8c40e7 (HEAD -> master, origin/master,
 origin/HEAD)
 Author: Romi Clemente <roclementech@gmail.com>
